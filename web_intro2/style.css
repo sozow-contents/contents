@@ -1,0 +1,71 @@
+h1 {
+  color:rgb(102, 80, 19);
+  font-size: 80px;
+  font-family: georgia;
+}
+
+h2 {
+  font-size:50px;
+  color: rgb(89, 95, 7);
+}
+
+
+p{
+  font-size:30px;
+}
+
+section {
+  padding:30px;
+}
+
+
+
+.title{
+  background-image:url(data/bgimg_title.png);
+  height: 300px;
+  padding-top: 50px;
+  text-align: center;
+}
+
+
+.person img {
+  border: sold 10px rgb(250, 150, 150);
+  border-radius: 50%;
+}
+
+
+.person{
+  background-image:url(data/bgimg_person.png);
+  background-size:  cover;
+  height: 700px;
+  text-align: center;
+}
+
+
+
+.info {
+  background-image:url('data/bgimg_info.png');
+  height: 900px;
+}
+
+.info h3 {
+  text-align: center;
+  font-size: 30px;
+  padding: 10px;
+  width : 120px;
+}
+
+.info p {
+  background-color: white;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.info div{
+  width: 180px;
+  float: left;
+  width: 25%; 
+  margin: 60px; 
+}
+
+

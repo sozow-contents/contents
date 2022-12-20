@@ -1,0 +1,73 @@
+
+
+header{
+  width: 100%;
+  padding: 30px 4% 10px;
+  background-color: rgb(162, 133, 225);
+  display:flex;
+  box-sizing: border-box;
+}
+
+header h1{
+  margin: 0; padding: 0;
+  font-size: 30px;
+}
+
+
+header a {	
+  text-decoration: none;
+  color: #4b4b4b;
+}
+
+
+nav {
+  margin: 0 0 0 auto;
+} 
+
+header ul {
+  list-style: none;
+  margin: 0;
+  display: flex;
+}
+
+header li {
+  margin: 0 0 0 100px;
+  font-size: 25px;
+}
+
+.title{
+  background-image: url('data/papul.png');
+  background-size:cover;
+  height: 400px;
+  padding-top: 50px;
+}
+
+.title h1 {
+  font-size: 100px;
+  text-align: center;
+  color: #682dac;
+}
+
+.main {
+  text-align: center;
+  background-image: url('data/pastel.png');
+  background-size:cover;
+  padding-top: 50px;
+}
+
+
+
+h2 {
+  font-size: 30px;
+  width: 500px;
+  padding: 15px;
+  margin:20px auto;
+  color: #010101;
+  background: #eaf3ff;
+}
+
+
+p {
+  margin-top: 16px;
+  font-size: 20px;
+}

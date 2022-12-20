@@ -1,0 +1,27 @@
+h1 {
+  color:rgb(102, 80, 19);
+  font-size: 80px;
+  font-family: georgia;
+}
+
+h2 {
+  font-size:50px;
+  color: rgb(89, 95, 7);
+}
+p{
+  font-size:30px;
+}
+
+div {
+  text-align: center;
+}
+
+img {
+  border: sold 10px rgb(250, 150, 150);
+  border-radius: 50%;
+}
+
+body{
+  background-image:url(data/bgimg.png);
+  background-size:  cover;
+}
