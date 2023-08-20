@@ -1,0 +1,39 @@
+h1 {
+  font-size: 80px;
+}
+
+h2 {
+  font-size:50px;
+  color: rgb(89, 95, 7);
+}
+
+p{
+  font-size:30px;
+}
+
+section{
+  background-image:url(img/startbackground.png);
+  background-size:  cover;
+  text-align: center;
+  height: 800px;
+  padding:30px;
+}
+
+div{
+  padding-top: 200px; 
+}
+
+a {
+	text-decoration: none;
+	width:400px;
+	margin: auto;
+	padding: 1rem 4rem;
+	font-weight: bold;
+	border: 2px solid #dbb765;
+	color: #dbb765;
+}
+
+a:hover {
+	color: #fff;
+	background: #dbb765;
+}

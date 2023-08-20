@@ -1,0 +1,17 @@
+a{
+	text-align: center;
+	text-decoration: none;
+	width: 100px;
+	padding: 1rem 4rem;
+	font-weight: bold;
+	border: 2px solid #27acd9;
+	color: #27acd9;
+  position: fixed;
+  top: 80px;
+  left: 80px
+}
+
+a:hover {
+	color: #fff;
+	background: #27acd9;
+}
